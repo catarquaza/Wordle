@@ -2,8 +2,8 @@
 #include <fstream>
 #include <string>
 #include <vector>
-#include <cstdlib>  // for rand and srand
-#include <ctime>    // for time
+#include <cstdlib> 
+#include <ctime>  
 #include <stdlib.h>
 #include <stdio.h>
 #include <windows.h>
